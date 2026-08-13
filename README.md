@@ -23,7 +23,7 @@ Docs: https://tailscale.com/docs
 
 ## Prerequisites
 
-1. You must have a Github account. Create one here if you don't have one or want a new one for this: https://github.com/signup. Get help with creating an account [here](https://docs.github.com/en/account-and-profile/how-tos/account-management/creating-an-account-on-github) if needed.
+1. You must have a Github account. Create one here if you don't have one or want a new one for this: https://github.com/signup. Get help with creating an account [here](https://docs.github.com/en/account-and-profile/how-tos/account-management/creating-an-account-on-github) if needed. [^1]
 
 1. Install tailscale client on your device: https://tailscale.com/download
 
@@ -55,4 +55,13 @@ Next you simply have to connect to my jellyfin server:
 1. Once logged in, you should be good to go. Browse around and let me know whatever issues come up!
 
 
+## Further Reading
+
+If you want more info/context on my setup, I have technical info here: [docs](./docs)
+
+
+
+### Footnotes
+
+[^1]: It's worth noting that tailnet restricts joining more than 1 external tailnet at a time by default: [enable-or-disable-joining-external-tailnets](https://tailscale.com/docs/features/sharing/how-to/invite-any-user#enable-or-disable-joining-external-tailnets). I do not plan on changing this for my tailnet, so if that is something to consider when using existing github account or making a new one. If you have other external tailnets you want your main github account to join, you should make a new account. IIUC this does not prevent you from creating your own tailnet on an account, just from joining others.
 
