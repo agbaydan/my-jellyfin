@@ -49,7 +49,7 @@ Copying [these instructions](https://tailscale.com/docs/integrations/identity/gi
 1. Be sure "`Organization access`" to "`batdan-tailnet`" is granted. You will see a green check mark next to org name if so. Then select "`Authorize tailscale`".  You will then be redirected to "`Select a tailnet`" page.
 1. Select the tailnet to join, in this case you will select:   
 	```  
-	batdan-tailnet  
+	batdan-tailnet.org.github
 	```
 1. You should see a confirmation message and a link to download tailnet on your device (which you should follow if you haven't downloaded on your desired device yet).
 1. I will have to approve you membership to my tailnet, so let me know once you reach the previous step and I will approve your account.
