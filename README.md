@@ -19,7 +19,7 @@ Docs: https://jellyfin.org/docs/
 
 I am using Github as my identity provider for my tailnet, meaning users will create a tailnet account via Github. I am also using a Github org for managing access to my tailnet, meaning I will have to add users to my Github org.
 
-Right now I am using the free plan which allows for up to 6 users on a tailnet. I may upgrade to a standard account at some point to allow for unlimited users, but tbd. It's worth noting that tailscale accounts are not able to be shared by multiple individuals.
+Right now I am using the free plan which allows for up to 6 users on a tailnet. I may upgrade to a standard account at some point to allow for unlimited users, but tbd.
 
 Docs: https://tailscale.com/docs
 
