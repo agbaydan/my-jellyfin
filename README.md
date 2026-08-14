@@ -44,10 +44,13 @@ Docs: https://tailscale.com/docs
 ## How to connect
 
 Copying [these instructions](https://tailscale.com/docs/integrations/identity/github#join-a-github-organization-tailnet) for how to join my tailnet:
-1. First I have to add you to my Github org: "`batdan-tailnet`". Send me your Github username or email address. I will send you an invite which you will recieve via email. Accept the invite once you get it. 
-1. Go to https://login.tailscale.com/login, select "Sign in with Github". This will redirect you to log in to Github.
-1. Select "Authorize tailscale", you will then be redirected to "Select a tailnet" page.
-1. Select the tailnet to join, in this case it should be "`batdan-tailnet`".
+1. First I have to add you to my Github org: "`batdan-tailnet`". Send me your Github username or email address. I will send you an invite which you will recieve via email. Accept the invite via email or visit [https://github.com/batdan-tailnet] to accept. 
+1. Go to https://login.tailscale.com/login, select "`Sign in with Github`". This will redirect you to log in to Github.
+1. Be sure "Organization access`" to "`batdan-tailnet`" is granted. You will see a green check mark next to org name if so. Then select "`Authorize tailscale`".  You will then be redirected to "`Select a tailnet`" page.
+1. Select the tailnet to join, in this case you will select:   
+	```  
+	batdan-tailnet  
+	```
 1. You should see a confirmation message and a link to download tailnet on your device (which you should follow if you haven't downloaded on your desired device yet).
 1. I will have to approve you membership to my tailnet, so let me know once you reach the previous step and I will approve your account.
 1. Once approved, log in to your tailnet account on the device you want to stream jellyfin on. 
