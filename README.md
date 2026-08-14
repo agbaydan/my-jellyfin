@@ -68,7 +68,7 @@ Next you simply have to connect to my jellyfin server:
 
 ## Further Reading
 
-If you want more info/context on my setup, I have technical info here: [docs](./docs)
+If you want random thoughts/info on my setup, see here: [docs](./docs)
 
 
 
