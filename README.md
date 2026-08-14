@@ -43,7 +43,7 @@ Docs: https://tailscale.com/docs
 
 ## How to connect
 
-Copying [these instructions](https://tailscale.com/docs/integrations/identity/github#join-a-github-personal-tailnet) for how to join my tailnet:
+Copying [these instructions](https://tailscale.com/docs/integrations/identity/github#join-a-github-organization-tailnet) for how to join my tailnet:
 1. First I have to add you to my Github org: "`batdan-tailnet`". Send me your Github username or email address. I will send you an invite which you will recieve via email. Accept the invite once you get it. 
 1. Go to https://login.tailscale.com/login, select "Sign in with Github". This will redirect you to log in to Github.
 1. Select "Authorize tailscale", you will then be redirected to "Select a tailnet" page.
