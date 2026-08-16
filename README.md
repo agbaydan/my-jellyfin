@@ -62,7 +62,7 @@ Next you simply have to connect to my jellyfin server:
     ```
 	https://jellyfin.wyrm-shiner.ts.net/
     ```
-1. If connection is successful, you will be prompted with a login. This is a login to jellyfin itself, not tailnet. Use the login info I sent here. I would encourage you to change the default password I provisioned for you.
+1. If connection is successful, you will be prompted with a login. This is a login to jellyfin itself, not tailnet. Use the login info I sent you. I will probably not setup a password for you by default, since tailnet is doing the actual authn/authz, but you can set a password on your account if you want. 
 1. Once logged in, you should be good to go. Browse around and let me know whatever issues come up!
 
 
