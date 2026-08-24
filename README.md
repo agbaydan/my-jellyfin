@@ -35,7 +35,7 @@ Docs: https://tailscale.com/docs
 
 1. Install tailscale client on your device: https://tailscale.com/download
 
-    It's available on ios, android, windows, macOS, linux. It is not available on most smart TVs so to watch on your TV connect on your phone/computer, and stream to TV via cast or hdmi etc. You **MUST** have tailscale on the client you wish to access jellyfin from.
+    It's available on ios, android, windows, macOS, linux, google TV (android). It is not available on most smart TVs so to watch on your TV connect on your phone/computer, and stream to TV via cast or hdmi etc. You **MUST** have tailscale on the client you wish to access jellyfin from.
 
 1. (Optional) Install jellyfin client on your device: https://jellyfin.org/downloads/clients/
     
